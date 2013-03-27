@@ -1,0 +1,5 @@
+name: MobHealth
+main: info.gomeow.mobhealth.MobHealth
+version: ${project.version}
+author: gomeow
+description: Shows mob health
